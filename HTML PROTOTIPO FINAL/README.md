@@ -1,2 +1,2 @@
-# PARCIAL1
-Entrega de proyecto, primer parcial.
+# FINAL
+Entrega de proyecto, final. Plataforma de aprendizaje y comunidad artística.
